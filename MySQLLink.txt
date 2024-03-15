@@ -1,0 +1,50 @@
+Full stack Mastery Angular Spring boot Ecom Project
+https://www.youtube.com/watch?v=k29A07LCRY8&t=915s
+
+
+https://www.youtube.com/watch?v=Sfvpgu9ID2Q
+postgresql installation
+https://www.youtube.com/watch?v=0n41UTkOBb0
+
+https://www.javatpoint.com/database-vs-schema
+
+Postgre sql
+user: postgres
+password: Sprinig@123
+port: 5432
+Installation Directory: C:\Program Files\PostgreSQL\16
+Server Installation Directory: C:\Program Files\PostgreSQL\16
+Data Directory: C:\Program Files\PostgreSQL\16\data
+Database Port: 5432
+Database Superuser: postgres
+Operating System Account: NT AUTHORITY\NetworkService
+Database Service: postgresql-x64-16
+Command Line Tools Installation Directory: C:\Program Files\PostgreSQL\16
+pgAdmin4 Installation Directory: C:\Program Files\PostgreSQL\16\pgAdmin 4
+Stack Builder Installation Directory: C:\Program Files\PostgreSQL\16
+Installation Log: C:\Users\USER\AppData\Local\Temp\install-postgresql.log
+
+Set up a Spring Boot Application with PostgreSQL
+https://dzone.com/articles/bounty-spring-boot-and-postgresql-database
+
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.hibernate.show-sql=true
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
+spring.datasource.username=postgres
+spring.datasource.password=admin
+
+Install node js
+learn Angular 
+how to check node js installed or not
+npm install -g @angular/cli
+https://stackoverflow.com/questions/37991556/ng-is-not-recognized-as-an-internal-or-external-command
+
+ng new ecom-fairplay
+
+ng serve to start app
+ng add @angular/material
+code with project
+https://www.youtube.com/watch?v=tiY9CL2YjgE&list=PLgYFT7gUQL8E6DmEySCcSdNvQlKVYfEd7
+
+https://github.com/Ashutosh23111991/ecom-fairplay-repo
